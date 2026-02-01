@@ -1,4 +1,4 @@
-# 🎵 Deteksi Ritme Musik
+# Deteksi Ritme Musik
 
 **Deteksi Ritme Musik** adalah project berbasis **Python** yang digunakan untuk menganalisis dan mendeteksi **pola ritme musik** dengan memanfaatkan pemrosesan sinyal audio dan pendekatan **Deep Learning**.
 
